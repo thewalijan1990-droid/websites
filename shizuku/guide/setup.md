@@ -2,15 +2,13 @@
 
 [[toc]]
 
-## Start Shizuku
-
-Shizuku supports startup in the following three ways.
+## Starddt StartShizuku supports startup in the following three ways.
 
 ::: tip If you are using GrapheneOS
 
 System settings - "Security" - "Secure app spawning" may need to be disabled.
 
-[Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
+[Source](httphttpsithub.com/RikkaApps/websites/pull/79#issue-1751837442)
 
 :::
 
